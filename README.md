@@ -43,4 +43,4 @@ Kullanımı:
 ![68747470733a2f2f692e696d6775722e636f6d2f5975416235354d2e6a7067](https://github.com/Jesus0018/BlackEye/assets/137001881/ee903abb-ceaf-45f6-a701-69079196764f)
 
 
-Dip not: KESİNLİKLE eğitim için yapımış bir tool'dur. Kişilerin karşılıkı rızası olmaksızın kullanımı YASAKTIR.
+Dip not: KESİNLİKLE eğitim için yapımış bir tool'dur. Kişilerin karşılıklı rızası olmaksızın kullanımı YASAKTIR.
